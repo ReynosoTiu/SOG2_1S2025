@@ -1,1 +1,4 @@
-# SOG2_1S2025
+# Sistemas organizacionales y gerenciales 2
+
+José Luis Reynoso Tiu  
+2655896221401@ingenieria.usac.edu.gt
